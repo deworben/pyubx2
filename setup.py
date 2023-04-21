@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 import version
-setup(name='mavproxymanager',
+setup(name='pyubx2',
       version=version.get_git_version(),
       description='Pyubx2',
       url='https://github.com/deworben/pyubx2.git',
